@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PUZZEL GAME BY AYAN DEV</title>
+  <style>
+    * {
+      margin: 0%;
+      padding: 0%;
+      box-sizing: border-box;
+      font-family: sans-serif;
+    }
+
+    body {
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      margin-top: 5%;
+      color: azure;
+      background-color: rgb(39, 39, 39);
+
+    }
+
+    .container {
+      margin-top: 6%;
+      display: grid;
+
+      grid-template-columns: repeat(4, 1fr);
+      gap: 4%;
+      padding: 0% 35%;
+
+
+
+
+    }
+
+    .items {
+      overflow: hidden;
+      border-radius: 10%;
+      transition: 0.3s ease;
+      transform-style: preserve-3d;
+
+
+    }
+
+    .items:hover {
+      transform: scale(1.2);
+      box-shadow: 0px 0px 7px 3px #ff0000;
+      cursor: pointer;
+
+
+    }
+
+    .items:active {
+
+      transform: rotateY(180deg);
+
+    }
+
+    .imggs img {
+      display: flex;
+      height: 7rem;
+      width: 100%;
+      object-fit: cover;
+
+
+
+    }
+
+    .imggs:hover {
+      transform: scale(1.2);
+      box-shadow: 0px 0px 10px 2px black;
+    }
+
+    .matching input {
+      margin-top: 1%;
+      height: 3rem;
+      width: 30rem;
+      text-align: center;
+      background-color: rgb(39, 39, 39);
+      border: none;
+      color: #ff0000;
+      font-size: xx-large;
+    }
+  </style>
+</head>
+<h1>
+  PUZZEL SHUFFEL GAME BY AYAN DEVELOPER
+</h1>
+
+<body>
+  <main>
+    <div class="container"></div>
+    <div class="matching">
+      <input type="text">
+    </div>
+
+
+  </main>
+
+</body>
+<script src="./app.js"></script>
+
+</html>
