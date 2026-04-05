@@ -1,7 +1,7 @@
 🧩 Puzzle Shuffle Game
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Game Preview">
+  <img src="https://github.com/Ayan-x4/Memory-Game/blob/10d050c052e74545cb57f401008cb936875462a6/Recording%202026-04-04%20203643.gif" alt="Game Preview">
 </p>
 ⚡ Think Fast. Match Smart. Win Clean.
 <p align="center"> <img src="https://img.shields.io/github/repo-size/your-username/puzzle-game?color=0A66C2&style=for-the-badge"> 
