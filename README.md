@@ -1,7 +1,7 @@
 🧩 Puzzle Shuffle Game
 
 <p align="center">
-  <img src="demo.gif" width="700" alt="Game Preview">
+  <img width="1068" height="742" alt="Image" src="https://github.com/user-attachments/assets/927d196b-536e-4f93-8038-b3b0045dba7a" />
 </p>
 ⚡ Think Fast. Match Smart. Win Clean.
 <p align="center"> <img src="https://img.shields.io/github/repo-size/your-username/puzzle-game?color=0A66C2&style=for-the-badge"> 
